@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatbotMyAxelos", "ChatbotMyAxelos\ChatbotMyAxelos.csproj", "{BA48E354-34A1-4A86-AED8-3E8E97CA5A5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpTextMethods", "HelpTextMethods\HelpTextMethods.csproj", "{569931A3-D02D-4923-B4F6-90209B9FD259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PineconeEmbeddings", "PineconeEmbeddings\PineconeEmbeddings.csproj", "{44AB21F0-3605-40B4-BB76-96F07FDCA972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA48E354-34A1-4A86-AED8-3E8E97CA5A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA48E354-34A1-4A86-AED8-3E8E97CA5A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA48E354-34A1-4A86-AED8-3E8E97CA5A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA48E354-34A1-4A86-AED8-3E8E97CA5A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569931A3-D02D-4923-B4F6-90209B9FD259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569931A3-D02D-4923-B4F6-90209B9FD259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569931A3-D02D-4923-B4F6-90209B9FD259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569931A3-D02D-4923-B4F6-90209B9FD259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AB21F0-3605-40B4-BB76-96F07FDCA972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AB21F0-3605-40B4-BB76-96F07FDCA972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AB21F0-3605-40B4-BB76-96F07FDCA972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AB21F0-3605-40B4-BB76-96F07FDCA972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B54952E-C877-4819-BBE8-033A43375AB9}
+	EndGlobalSection
+EndGlobal
